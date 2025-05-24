@@ -22,7 +22,7 @@ title: pagina tarea miumg
 email: Eduardo@gmail.com
 description: >- # esta pagina ha sido creada por Eduardo  
   Esta pagina ha sido creada por Eduardo .
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /jekyll-sitio # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: edu?
 github_username:  edu?
