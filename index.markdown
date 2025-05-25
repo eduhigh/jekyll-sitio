@@ -4,7 +4,11 @@
 
 layout: default
 ---
-                                                    "MI PROYECTO PERSONAL"
+
+
+                                            "MI PROYECTO PERSONAL"
+
+
 ---
 
 # ¡Bienvenidos a mi sitio!
@@ -12,6 +16,9 @@ layout: default
 Esta página ha sido creada por Eduardo y aquí voy a compartir mis proyectos y pensamientos.
 
 
+
 **--- AQUÍ UN VIDEO DE MI HiSTORIA PERSONAL ---**
+
                         ⤓⤓⤓⤓
-      [¡MI HISTORIA DE VIDA😿!](https://www.youtube.com/watch?v=GEwlZqjJ5Og)
+
+[¡MI HISTORIA DE VIDA😿!](https://www.youtube.com/watch?v=GEwlZqjJ5Og)
