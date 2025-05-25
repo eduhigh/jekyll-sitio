@@ -20,4 +20,4 @@ Esta página ha sido creada por Eduardo y aquí voy a compartir mis proyectos y 
 
 **--- AQUÍ UN VIDEO DE MI HiSTORIA PERSONAL ---**
 
-[¡mi historia de vida!](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+[¡MI HISTORIA DE VIDA😿!](https://www.youtube.com/watch?v=GEwlZqjJ5Og)
